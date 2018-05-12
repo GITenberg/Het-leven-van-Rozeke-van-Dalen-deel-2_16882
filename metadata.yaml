@@ -1,0 +1,32 @@
+_repo: Het-leven-van-Rozeke-van-Dalen-deel-2_16882
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Buysse, Cyriel
+    aliases:
+    - Buysse, Cyriël
+    - Buysse, Cyrillus Gustave Emile
+    birthdate: 1859
+    deathdate: 1932
+    gutenberg_agent_id: '3480'
+    url: http://www.gutenberg.org/2009/agents/3480
+    wikipedia:
+    - http://nl.wikipedia.org/wiki/Cyriel_Buysse
+    - http://en.wikipedia.org/wiki/Cyriel_Buysse
+description: ''
+gutenberg_issued: '2005-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16882'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Fiction'
+title: Het leven van Rozeke van Dalen, deel 2
+url: http://www.gutenberg.org/ebooks/16882
